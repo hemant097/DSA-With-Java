@@ -43,7 +43,7 @@ public class PreOrderTraversal {
         tree.root.left.left = new TreeNode(7);
         tree.root.left.right = new TreeNode(8);
         tree.root.right.left = new TreeNode(81);
-        tree.root.right.left= new TreeNode(75);
+        tree.root.right.right= new TreeNode(75);
         
         preorder(tree.root);
         
