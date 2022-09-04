@@ -1,2 +1,2 @@
 # DSA-With-Java
-Some DSA problem solved with Java
+Some DSA problems solved with Java. Will add more problems whenever I get time.
